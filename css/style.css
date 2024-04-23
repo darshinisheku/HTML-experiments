@@ -1,0 +1,18 @@
+#bigdeal{
+
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    background-color: tan;
+}
+
+h2{
+    background-color: tan;
+    text-align: center;
+}
+
+h4{
+    text-shadow: 2px 2px red;
+}
